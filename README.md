@@ -86,7 +86,7 @@ This series of exercises strengthened my foundation in web programming and full-
 
 ---
 
-**Created by:** *[Your Name]*  
+**Created by:** *ABINAYA M*  
 **Platform:** iamneo.ai  
 **Category:** Web Programming Exercises  
 **Status:** ✅ Completed Successfully
