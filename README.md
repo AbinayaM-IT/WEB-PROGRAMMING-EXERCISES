@@ -87,7 +87,7 @@ This series of exercises strengthened my foundation in web programming and full-
 ---
 
 **Created by:** *ABINAYA M*  
-**Platform:** iamneo.ai  
+**Platform:** rec215.examly.io  
 **Category:** Web Programming Exercises  
 **Status:** ✅ Completed Successfully
 
